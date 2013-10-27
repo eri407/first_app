@@ -24,5 +24,4 @@ doc/
 .DS_Store
 .idea
 .secret
-*.lock
 .keep
